@@ -6,4 +6,4 @@ Executes the selected text in a new iTerm session
 
 # WARNING!
 
-Executing some commands may result in dataloss. Use with caution.
+Executing some commands may result in data loss. Use with caution.
