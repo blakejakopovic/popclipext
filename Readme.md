@@ -1,4 +1,4 @@
-# Markdown Extensions for [PopClip](http://pilotmoon.com/popclip/)
+# iTerm extension for [PopClip](http://pilotmoon.com/popclip/)
 
 ## iTerm
 
